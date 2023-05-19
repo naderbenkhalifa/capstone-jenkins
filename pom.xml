@@ -33,9 +33,9 @@
 
 		<dependency>
 			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-j</artifactId>
+			<artifactId>mysql-connector-java</artifactId>
 
-			  <!--<scope>runtime</scope>-->	
+			  <scope>runtime</scope>
 		
 		</dependency>
 		
