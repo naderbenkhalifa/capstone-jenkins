@@ -79,6 +79,11 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
+<dependency>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>database-mysql</artifactId>
+    <version>1.4</version>
+</dependency>
 
 		
 	</dependencies>
