@@ -98,7 +98,7 @@
         <groupId>com.github.kongchen</groupId>
         <artifactId>swagger-maven-plugin</artifactId>
         <version>3.1.8</version>
-        <configuration>
+        <!--<configuration>
           <apiSources>
             <apiSource>
               <springmvc>true</springmvc>
@@ -122,7 +122,7 @@
               <swaggerDirectory>${project.build.directory}</swaggerDirectory>
             </apiSource>
           </apiSources>
-        </configuration>
+        </configuration>-->
         <executions>
           <execution>
             <phase>install</phase>
